@@ -1,5 +1,6 @@
 # Pong-3.0
 Pong 3.0 is colorful and fast-paced approach to the classic pong game. Play online with your friends and overwhelm them with your superior skills and balls!
+You can play online [here](https://pong-3-0.onrender.com/)
 
 ### Setting up
  * Clone the repo: `git clone ...`
